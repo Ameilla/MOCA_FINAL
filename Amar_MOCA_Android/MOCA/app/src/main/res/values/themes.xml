@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MOCA" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!--        <item name="colorPrimary">@color/your_light_primary_color</item>-->
+        <!-- Add more customizations as needed -->
+    </style>
+
+    <!-- Theme extending the base theme. -->
+    <style name="Theme.MOCA" parent="Base.Theme.MOCA">
+        <!-- Customize additional attributes here if needed -->
+    </style>
+</resources>
